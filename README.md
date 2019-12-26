@@ -6,7 +6,7 @@ By using the commonly used bottom-up-attention visual features, a single MCAN mo
 
 ![Overview of MCAN](misc/mcan_overall.png)
 
-## Changes on this fork by Kayo:
+## Changes on this fork by d86518:
 - Only download and use validation set
 - Edit `core` to allow use on CPU
 - Add script for validation
